@@ -5,6 +5,8 @@ qt从学到写这个项目大概一周时间，如果之前有项目经历就能
 这个仓库里的项目，如果是想入门qt，适合练手，代码也不多，就700~800代码，几乎每行代码我都注释了，自己学的时候疑惑的地方也当注释在写，
 关于用到的socket和tcp，百度一下，再看看帮助文档应该就可以了。
 
+calculator是一个基于qt写的计算器，主要用的是两个栈进行运算处理，适合新手练手，并可以学习栈的使用
+
 **近期变动/GitHub Contributions**
 <!--状态展示：-->
 <img align="center"  src="https://github-readme-stats.vercel.app/api?username=pydnb&show_icons=true&theme=radical"/>
